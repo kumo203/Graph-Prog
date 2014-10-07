@@ -1,0 +1,12 @@
+C:\Users\ytp\Downloads\Graph-Program\Graph-Program\PlotCharts\PlotCharts\bin\Release\PlotCharts.exe
+C:\Users\ytp\Downloads\Graph-Program\Graph-Program\PlotCharts\PlotCharts\bin\Release\PlotCharts.pdb
+C:\Users\ytp\Downloads\Graph-Program\Graph-Program\PlotCharts\PlotCharts\bin\Release\ja\PlotCharts.resources.dll
+C:\Users\ytp\Downloads\Graph-Program\Graph-Program\PlotCharts\PlotCharts\bin\Release\DxpSimpleAPI.dll
+C:\Users\ytp\Downloads\Graph-Program\Graph-Program\PlotCharts\PlotCharts\obj\x86\Release\PlotCharts.csprojResolveAssemblyReference.cache
+C:\Users\ytp\Downloads\Graph-Program\Graph-Program\PlotCharts\PlotCharts\obj\x86\Release\PlotCharts.PlotCharts.resources
+C:\Users\ytp\Downloads\Graph-Program\Graph-Program\PlotCharts\PlotCharts\obj\x86\Release\PlotCharts.Properties.Resources.resources
+C:\Users\ytp\Downloads\Graph-Program\Graph-Program\PlotCharts\PlotCharts\obj\x86\Release\PlotCharts.PlotCharts.ja.resources
+C:\Users\ytp\Downloads\Graph-Program\Graph-Program\PlotCharts\PlotCharts\obj\x86\Release\PlotCharts.csproj.GenerateResource.Cache
+C:\Users\ytp\Downloads\Graph-Program\Graph-Program\PlotCharts\PlotCharts\obj\x86\Release\ja\PlotCharts.resources.dll
+C:\Users\ytp\Downloads\Graph-Program\Graph-Program\PlotCharts\PlotCharts\obj\x86\Release\PlotCharts.exe
+C:\Users\ytp\Downloads\Graph-Program\Graph-Program\PlotCharts\PlotCharts\obj\x86\Release\PlotCharts.pdb
